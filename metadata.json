@@ -1,0 +1,5 @@
+{
+  "name": "Raw water",
+  "description": "A stylized water shader using React Three Fiber, featuring depth-based color blending, refraction, Gerstner waves, and procedural foam.",
+  "requestFramePermissions": []
+}
